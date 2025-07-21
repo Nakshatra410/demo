@@ -1,6 +1,6 @@
 # demo
 This is my first Git Repository.
 <br>
-Author- Nakshatra Sonawane
+Author- Nakshatra Sonawane.
 
 
