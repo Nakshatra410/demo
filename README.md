@@ -1,7 +1,7 @@
 # demo
 This is my first Git Repository.
 <br>
-Author- Nakshatra (sona)
+Author- Nakshatra Sonawane
 
 
 
